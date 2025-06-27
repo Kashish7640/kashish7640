@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashish7640&label=Profile%20views&color=0e75b6&style=flat" alt="kashish7640" /> </p>
 
+- About Me :- **I’m passionate about using data to solve real-world problems. I have hands-on experience with: - 📊 Data Cleaning & Transformation - 🧮 SQL Queries and MySQL Joins - 📉 Creating Dashboards in Power BI and Tableau - 📂 Project Work in Python using Pandas, Matplotlib**
+
 - 🌱 I’m currently learning **- Power BI Advanced Dashboards - Excel Pivot Tables and DAX - Tableau Dashboards**
 
 - 👯 I’m looking to collaborate on [Student Management System](https://github.com/Kashish7640/Student-Management-System)
